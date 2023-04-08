@@ -10,8 +10,9 @@ https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#P
 
 The libraries that I used:
 
-Numpy
-Pandas
-Seaborn
-Matplotlib
-Scikit-learn
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Plotly
+- Scikit-learn
