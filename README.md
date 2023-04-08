@@ -1,4 +1,4 @@
-Segmentation (or clustering) is a well known technique for categorizing unlabelled data and is used in unsupervised learning. It helps with creation of classes.
+Segmentation (or clustering) is a well known technique for categorizing unlabelled data and has been used in unsupervised learning. It helps with the creation of classes for the provided data.
 For this project I try to predict the right cluster for the customers of an automobile company. 
 
 This dataset has been taken by kaggle: 
