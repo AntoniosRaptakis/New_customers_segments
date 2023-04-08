@@ -8,4 +8,10 @@ Specifically, one can also see the case at:
 https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#ProblemStatement
 
 
-Libraries:
+The libraries that I used:
+
+Numpy
+Pandas
+Seaborn
+Matplotlib
+Scikit-learn
